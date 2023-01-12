@@ -9,7 +9,7 @@ I used multiple applications to get the desired 3D model. I used MRIcroGL to con
 I then used a Oracle VM VirtualBox and Freesurfer to generate a scan of my brain and uploaded it into meshlab where I edited and converted it into a useable STL. I modified some of the program so that freesurfer would scan and build the cerebellum along with the brain.
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/69320369/212182040-7b66059f-6e5d-4ca5-93af-ef3f1c3fcb18.png">
 
-After I had roughly cleaned up the STL I used Autodesk Fusion360 and Blender to clean the mesh and remove all skull parts and extra pieces that freesurfer had accidentally scanned as part of my brain. 
+Some of the files in my MRI scan were blurry and not very good quality so the brain ridges were not as clearly defined as I had hoped for. After I had roughly cleaned up the STL, I used Autodesk Fusion360 and Blender to clean the mesh and remove all skull parts and extra pieces that Freesurfer had accidentally scanned as part of my brain. 
 ![image](https://user-images.githubusercontent.com/69320369/212183036-8111c188-522b-4b99-8493-cff9ecb54623.png)
 
 Once the final mesh had been rendered I uploaded it to PrusaSlicer to prepare it for 3D printing.
