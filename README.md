@@ -16,7 +16,7 @@ Once the final mesh had been rendered I uploaded it to PrusaSlicer to prepare it
 ![image](https://user-images.githubusercontent.com/69320369/212183233-7118bfe2-c5d6-45cd-9b8c-0d0a9d5a5609.png)
 
 48 hours of printing later it was finished in real size and weighed about 2.5 pounds which is roughly the weight of my brain. 
-![1](https://user-images.githubusercontent.com/69320369/212183849-341a9210-0b84-41c3-9ae9-6484d2441e1f.jpg)
-![2](https://user-images.githubusercontent.com/69320369/212183856-ca35c59b-8d99-4146-aade-842c8ad7eb1a.jpg)
-![3](https://user-images.githubusercontent.com/69320369/212183864-4cbb252b-611e-4cf8-bd7b-0f596820228b.jpg)
-![4](https://user-images.githubusercontent.com/69320369/212183871-12270e6d-1d24-4ab0-8b89-4243d8cfc4ca.jpg)
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/69320369/212183849-341a9210-0b84-41c3-9ae9-6484d2441e1f.jpg">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/69320369/212183856-ca35c59b-8d99-4146-aade-842c8ad7eb1a.jpg">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/69320369/212183864-4cbb252b-611e-4cf8-bd7b-0f596820228b.jpg">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/69320369/212183871-12270e6d-1d24-4ab0-8b89-4243d8cfc4ca.jpg">
