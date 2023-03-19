@@ -3,7 +3,7 @@ On April 28, 2022 I got a T1 and T2 MRI scan done of my brain. I decided later t
 
 I used this instructable https://www.instructables.com/3D-print-your-own-brain/ and my own knowledge to develop a 3D model which I would later print. 
 
-I used multiple applications to get the desired 3D model. I used MRIcroGL to convert my dicom MRI files to a compressed and zipped nifti file. 
+I used multiple applications to get the desired 3D model. MRIcroGL was used to convert my dicom MRI files to a compressed and zipped nifti file. 
 <img width="740" alt="image" src="https://user-images.githubusercontent.com/69320369/212181672-6b4d1391-097f-47ad-a1f3-37ceb03557d9.png">
 
 I then used a Oracle VM VirtualBox and Freesurfer to generate a scan of my brain and uploaded it into meshlab where I edited and converted it into a useable STL. I modified some of the program so that freesurfer would scan and build the cerebellum along with the brain.
